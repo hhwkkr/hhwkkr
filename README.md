@@ -1,5 +1,3 @@
 # This is an individual learning experience log
 
-## First C++
-
-
+## Maybe haven’t new content
